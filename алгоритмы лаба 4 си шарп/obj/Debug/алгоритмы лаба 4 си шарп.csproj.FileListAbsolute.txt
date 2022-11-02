@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\bin\Debug\алгоритмы лаба 4 си шарп.exe.config
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\bin\Debug\алгоритмы лаба 4 си шарп.exe
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\bin\Debug\алгоритмы лаба 4 си шарп.pdb
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\obj\Debug\алгоритмы лаба 4 си шарп.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\obj\Debug\алгоритмы_лаба_4_си_шарп.Form1.resources
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\obj\Debug\алгоритмы_лаба_4_си_шарп.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\obj\Debug\алгоритмы лаба 4 си шарп.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\obj\Debug\алгоритмы лаба 4 си шарп.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\obj\Debug\алгоритмы лаба 4 си шарп.exe
+C:\Users\Пользователь\source\repos\алгоритмы лаба 4 си шарп\obj\Debug\алгоритмы лаба 4 си шарп.pdb

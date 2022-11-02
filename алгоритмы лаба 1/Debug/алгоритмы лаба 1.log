@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Пользователь\source\repos\алгоритмы лаба 1\Source.cpp(6,21): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\Пользователь\source\repos\алгоритмы лаба 1\Source.cpp(371,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Пользователь\source\repos\алгоритмы лаба 1\Source.cpp(97): warning C4715: 'index': not all control paths return a value
+C:\Users\Пользователь\source\repos\алгоритмы лаба 1\Source.cpp(138): warning C4715: 'index_findvar': not all control paths return a value
+  алгоритмы лаба 1.vcxproj -> C:\Users\Пользователь\source\repos\алгоритмы лаба 1\Debug\алгоритмы лаба 1.exe

@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\bin\Debug\алгоритмы лаба 5.exe.config
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\bin\Debug\алгоритмы лаба 5.exe
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\bin\Debug\алгоритмы лаба 5.pdb
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\obj\Debug\алгоритмы лаба 5.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\obj\Debug\алгоритмы_лаба_5.Form1.resources
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\obj\Debug\алгоритмы_лаба_5.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\obj\Debug\алгоритмы лаба 5.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\obj\Debug\алгоритмы лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\obj\Debug\алгоритмы лаба 5.exe
+C:\Users\Пользователь\source\repos\алгоритмы лаба 5\obj\Debug\алгоритмы лаба 5.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "алгоритмы лаба 5", "алгоритмы лаба 5.csproj", "{E8901677-8BC5-44B4-AA3C-179D333E77A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8901677-8BC5-44B4-AA3C-179D333E77A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8901677-8BC5-44B4-AA3C-179D333E77A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8901677-8BC5-44B4-AA3C-179D333E77A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8901677-8BC5-44B4-AA3C-179D333E77A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099FD641-CE02-439C-BB42-6BAB6981584C}
+	EndGlobalSection
+EndGlobal
